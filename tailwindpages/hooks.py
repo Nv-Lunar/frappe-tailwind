@@ -4,6 +4,7 @@ app_publisher = "aldo"
 app_description = "Tailwind setup training"
 app_email = "aldo@gmail.com"
 app_license = "mit"
+app_include_css = "/assets/tailwindpages/css/tailwind.css"
 # required_apps = []
 
 # Includes in <head>
